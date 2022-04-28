@@ -1,0 +1,39 @@
+
+h1 {
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 100px;
+    color: khaki;
+    background-image: url('C:/Users/turnc/OneDrive/_code/codecademy/projects/arts_and_crafts_website/resources/images/pattern.webp')
+}
+
+#brush {
+    background-color: mediumspringgreen;
+    color: white;
+    font-size: 32px;
+    font-family: Helvetica;
+}
+
+#frames {
+    background-color: lightcoral;
+    color: white;
+    font-size: 32px;
+    font-family: Helvetica;
+}
+
+#paint {
+    background-color: skyblue;
+    color: white;
+    font-size: 32px;
+    font-family: Helvetica;
+}
+
+.price {
+    color: blue;
+    font-weight: bold;
+
+}
+
+p {
+    font-family: Helvetica;
+}
