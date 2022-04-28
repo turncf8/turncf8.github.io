@@ -4,7 +4,7 @@ h1 {
     font-family: Helvetica;
     font-size: 100px;
     color: khaki;
-    background-image: url('C:/Users/turnc/OneDrive/_code/codecademy/projects/arts_and_crafts_website/resources/images/pattern.webp')
+    background-image: url('./pattern.webp')
 }
 
 #brush {
